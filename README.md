@@ -1,2 +1,21 @@
 # Email-Spam-Detector
-This project is an AI-based system that classifies emails as Spam or Not Spam (Ham) using Natural Language Processing (NLP) and Machine Learning. The system takes user imput (email) processes it using NLP convert it into numerical features using TF-IDF It uses a trained ML model to predict spam and display prediction with probability and visualize
+##  Description
+This project detects whether an email is spam or not using machine learning.
+
+##  Technologies
+- Python
+- Scikit-learn
+- Streamlit
+
+##  How to Run
+1. Install requirements
+2. Run train.py
+3. Run streamlit app
+
+## Features
+- Spam detection
+- Probability score
+- Visualization
+
+##  SDG Goal
+SDG 9 – Industry, Innovation, and Infrastructure
